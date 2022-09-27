@@ -7,4 +7,8 @@
         bool
 */
 
-void main() {}
+void main() {
+int x = 3;
+int r = 1;
+print(x < r);    
+}
