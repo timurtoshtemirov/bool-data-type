@@ -8,4 +8,8 @@
       bool
   */
 
-void main() {}
+void main() {
+int x = 1;
+int r = 1;
+print(x == r);  
+}
