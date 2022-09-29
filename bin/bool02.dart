@@ -8,8 +8,8 @@
 */
 
 void main(){
-print(func(3,1));
+print(func(7));
 }
-bool func (int a, int d){
- return a < d ;    
+bool func (int a){
+ return a == 7  ;    
 }
