@@ -7,7 +7,10 @@
         bool
     */
 
+
 void main() {
- int x = 1;
- print(x > 2);   
+ print(func(7));   
+}
+bool func (int b){
+return b==7;
 }
