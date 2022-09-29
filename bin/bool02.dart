@@ -7,8 +7,9 @@
         bool
 */
 
-void main() {
-int x = 3;
-int r = 1;
-print(x < r);    
+void main(){
+print(func(3,1));
+}
+bool func (int a, int d){
+ return a < d ;    
 }
