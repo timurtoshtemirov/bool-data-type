@@ -9,8 +9,8 @@
     */
 
 void main() {
-print(func(9));    
+print(func(9,7));    
 }
-bool func(int a){
-return a != 7;    
+bool func(int a,int d ){
+return a != d;    
 }
