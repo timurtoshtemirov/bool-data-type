@@ -11,5 +11,5 @@ void main() {
 print(func(7));    
 }
 bool func(int a ){
-return a % 1 == 0 && 7 >=0;    
+return 7 % 1 == 0 && 7 >=0;  
 }
