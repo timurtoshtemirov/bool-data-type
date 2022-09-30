@@ -9,7 +9,8 @@
   */
 
 void main() {
-int x = 1;
-int r = 1;
-print(x == r);  
+print(func(1 ,8));
+}
+bool func(int a,int d){
+return a == d;
 }
