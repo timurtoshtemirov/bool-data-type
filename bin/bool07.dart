@@ -9,7 +9,7 @@
     */
 
 void main() {
-print(func(9,7));    
+print(func(7,6));    
 }
 bool func(int a,int d ){
 return a != d;    
