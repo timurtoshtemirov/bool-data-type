@@ -8,8 +8,8 @@
     */
 
 void main(){
-print(func(8));    
+print(func(9));    
 }
 bool func(int a){
-return a < 0;     
+return a < 5;     
 }
