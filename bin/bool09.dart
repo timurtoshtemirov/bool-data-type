@@ -11,5 +11,5 @@ void main(){
 print(func(9));    
 }
 bool func(int a){
-return a < 5;     
+return a < 4;     
 }
