@@ -1,10 +1,7 @@
-/*
-    Create fucntion func
-    Check the logic "The variable "a" is an odd number"
-    Args:
-        a: int
-    Returns:
-        bool
-    */
 
-void main() {}
+void main(){
+print(func(2));   
+}
+bool func(int a ){
+return a > 8;    
+}
