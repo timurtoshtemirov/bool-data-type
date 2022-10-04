@@ -1,6 +1,6 @@
 void main(){
- print(func(5));   
+ print(func(2));   
 }
 bool func (int b){
- return b != 5;   
-}
+ return b < 0;
+ }
